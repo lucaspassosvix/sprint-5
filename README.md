@@ -11,3 +11,5 @@ Este projeto usa Streamlit e Plotly Express para permitir a visualização inter
 - Interface interativa com botões para criar os gráficos em poucos cliques
 - Exploração rápida dos dados de veículos usados em um ambiente web simples e acessível
 
+### Segue abaixo o link do aplicativo:
+https://sprint-5-1-mzz9.onrender.com

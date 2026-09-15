@@ -5,6 +5,15 @@ import streamlit as st
 car_data = pd.read_csv('vehicles.csv')
 
 st.title('Análise de veículos')
+st.subheader('Descrição do projeto')
+st.write(
+    'Este projeto usa Streamlit e Plotly Express para explorar dados de anúncios de veículos usados. '
+    'A interface permite visualizar padrões de odômetro, preço e distribuição por modelo de forma interativa.'
+)
+st.write('Nele é possível:')
+st.write('- visualizar histogramas para a coluna de odômetro;')
+st.write('- gerar gráficos de dispersão entre odômetro e preço;')
+st.write('- explorar os dados com uma interface simples e funcional.')
 
 col1, col2 = st.columns(2)
 

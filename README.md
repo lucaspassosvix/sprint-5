@@ -12,4 +12,4 @@ Este projeto usa Streamlit e Plotly Express para permitir a visualização inter
 - Exploração rápida dos dados de veículos usados em um ambiente web simples e acessível
 
 ### Segue abaixo o link do aplicativo:
-https://sprint-5-2-crj9.onrender.com/
+https://sprint-5-3-x7qm.onrender.com/

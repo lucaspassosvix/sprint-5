@@ -28,5 +28,5 @@ with col2:
     scatter_button = st.button('Criar gráfico de dispersão')
     if scatter_button:
         st.write('Criando um gráfico de dispersão para os dados de carros')
-        fig_scatter = px.scatter(car_data, x="odometer", y="price", color="model")
+        fig_scatter = px.scatter(car_data, x="odometer", y="price", color="condition")
         st.plotly_chart(fig_scatter, use_container_width=True)
